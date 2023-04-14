@@ -1,4 +1,4 @@
-package com.luv2code.springboot.thymeleafdemo.controller;
+package com.luerlyu.myapp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

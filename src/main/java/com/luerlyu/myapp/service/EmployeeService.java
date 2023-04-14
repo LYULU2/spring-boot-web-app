@@ -1,8 +1,8 @@
-package com.luv2code.springboot.thymeleafdemo.service;
+package com.luerlyu.myapp.service;
 
 import java.util.List;
 
-import com.luv2code.springboot.thymeleafdemo.entity.Employee;
+import com.luerlyu.myapp.entity.Employee;
 
 public interface EmployeeService {
 

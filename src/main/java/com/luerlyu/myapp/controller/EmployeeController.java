@@ -1,6 +1,6 @@
-package com.luv2code.springboot.thymeleafdemo.controller;
+package com.luerlyu.myapp.controller;
 
-import com.luv2code.springboot.thymeleafdemo.entity.Employee;
+import com.luerlyu.myapp.entity.Employee;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -10,10 +10,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.luv2code.springboot</groupId>
-	<artifactId>thymeleafdemo</artifactId>
+	<groupId>com.luerlyu</groupId>
+	<artifactId>myapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>thymeleafdemo</name>
+	<name>myapp</name>
 	<description>Demo project for Spring Boot</description>
 	
 	<properties>
@@ -22,7 +22,11 @@
 	
 	<dependencies>
 		<!-- TODO: Add dependency for mysql -->
-
+		<dependency>
+			<groupId>com.mysql</groupId>
+			<artifactId>mysql-connector-j</artifactId>
+			<scope>runtime</scope>
+		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
